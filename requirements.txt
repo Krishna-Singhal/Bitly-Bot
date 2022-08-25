@@ -1,4 +1,4 @@
-bitly-api-python
+bitly-api-python==1.0.3
 pyrogram==2.0.30
 requests
 TgCrypto
